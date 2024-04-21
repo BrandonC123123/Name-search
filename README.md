@@ -9,3 +9,6 @@ It will also display how long it took each data structure to find the name.
 
 
 To end the program, input 'Stop' or 'stop' when prompted.
+
+Link to dataset:
+https://www.kaggle.com/datasets/ryanburnsworth/popular-names-by-birth-year-1880-2022
